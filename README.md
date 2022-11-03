@@ -1,4 +1,4 @@
-### Healthcare Conversational Agent
+### Healthcare Conversational Agent group16
 
-Make sure to run the server and client for the agent to be able to communicate with the database.
+Make sure to run the server.py and client.py for the agent to be able to communicate with the database.
 See README in python-server for more information.
